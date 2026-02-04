@@ -1,0 +1,5 @@
+{
+  "name": "한의원 치료 현황판 (Clinic Status Board)",
+  "description": "한의원 개원을 위한 전문적인 치료실 현황판입니다. 상담 대기, 베드별 치료 상태 관리, 타이머 기능 및 원장 치료 순서 관리를 포함합니다.",
+  "requestFramePermissions": []
+}
